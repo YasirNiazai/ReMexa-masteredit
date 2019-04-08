@@ -1,0 +1,102 @@
+.wrap {
+  width: 50%;
+  position: relative;
+  border-bottom: 2px solid #adadad;
+  margin-bottom: 37px;
+}
+
+#button {
+    padding: 10px;
+    border-spacing: 10px;
+    align-content: center;
+    display: inline-block;
+
+}
+body {
+    margin: auto;
+    width: 100%;
+    border: 4 px dotted #73AD21;
+    padding-top: 150px;
+    align-self: center;
+    background-image: url('back.jpg');
+}
+#prompt{
+
+    border:  5px solid #cca;
+    padding-left: 1px;
+
+    border-spacing: 100px;
+    align-self:center;
+    align-content: center;
+      white-space: wrap;
+}
+
+#intro {
+    padding-left: 50px;
+    text-align:  auto;
+    font-size: 30px;
+    white-space: nowrap;
+}
+
+#intro-head {
+    padding-left: 0px;
+    text-align: center;
+    font-size: 30px;
+    white-space: nowrap;
+    margin:auto;
+    font-size: 60px;
+}
+
+#intro-signup {
+    padding-left: 0px;
+    text-align: center;
+    font-size: 30px;
+    white-space: nowrap;
+    margin:auto;
+    font-size: 60px;
+}
+
+
+
+#loginbutton{
+    padding-left: 100px;
+    text-align: center;
+    margin:auto;
+    display: flex;
+    white-space: nowrap;
+    color: #fff !important;
+/* padding: 20px; */
+border-radius: 5px;
+display: inline-block;
+border: none;
+}
+.Logo {
+  background-image: url(./logo.png);
+  padding-left:1px;
+    display: flex;
+}
+#signupbutton{
+    padding-left: 35px;
+    margin:auto;
+    text-align: center;
+    white-space: wrap;
+}
+
+#usercred{
+    margin: auto;
+    padding-left: 50px;
+    text-align: center;
+    white-space: nowrap;
+    font-weight: bold;
+}
+
+#passcred{
+    margin:auto;
+    padding-left: 50px;
+    text-align: center;
+    white-space: nowrap;
+    font-weight: bold;
+}
+
+#sprompt{
+}

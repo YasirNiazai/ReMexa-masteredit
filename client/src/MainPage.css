@@ -1,0 +1,71 @@
+
+#form {
+  border: 4px solid #f1f1f1;
+}
+
+#prompt {
+  padding-left: 50px;
+  text-align: center;
+  font-size: 30px;
+  white-space: wrap;
+
+
+}
+.section-title {
+	font-size: 32px;
+	letter-spacing: 1px;
+	color: #fff;
+}
+
+.forms {
+	display: flex;
+	align-items: flex-start;
+	margin-top: 30px;
+}
+.form {
+	overflow: hidden;
+	min-width: 260px;
+	margin-top: 50px;
+	padding: 30px 25px;
+  border-radius: 5px;
+	transform-origin: top;
+}
+.forms-section {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+#mssg {
+  margin: 100px;
+  width: 60%;
+    border:  5px solid #cca;
+  padding-left: 20px;
+  align-self: center;
+  white-space: nowrap;
+  font-size: 20px;
+}
+#container-login100 {
+  width: 100%;
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 150px;
+  background: #ebeeef;
+  align:center;
+}
+
+#wrap-login100 {
+  width: 670px;
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  position: relative;
+}
